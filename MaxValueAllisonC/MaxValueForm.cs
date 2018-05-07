@@ -26,7 +26,13 @@ namespace MaxValueAllisonC
 
         private int GetMaxValue(int[] tmpArrayOfNumbers)
         {
+            //declare local variables
+            int maxValue;
+            int currentValue;
 
+
+
+            return maxValue;
         }
 
         private void btnStart_Click(object sender, EventArgs e)
