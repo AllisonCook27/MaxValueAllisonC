@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\MaxValueAllisonC\MaxValueAllisonC\bin\Debug\MaxValueAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\MaxValueAllisonC\MaxValueAllisonC\bin\Debug\MaxValueAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\MaxValueAllisonC\MaxValueAllisonC\bin\Debug\MaxValueAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\MaxValueAllisonC\MaxValueAllisonC\obj\Debug\MaxValueAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\MaxValueAllisonC\MaxValueAllisonC\obj\Debug\MaxValueAllisonC.frmMaxValue.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\MaxValueAllisonC\MaxValueAllisonC\obj\Debug\MaxValueAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\MaxValueAllisonC\MaxValueAllisonC\obj\Debug\MaxValueAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\MaxValueAllisonC\MaxValueAllisonC\obj\Debug\MaxValueAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\MaxValueAllisonC\MaxValueAllisonC\obj\Debug\MaxValueAllisonC.pdb

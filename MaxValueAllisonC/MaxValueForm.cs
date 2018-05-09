@@ -19,6 +19,9 @@ namespace MaxValueAllisonC
 {
     public partial class frmMaxValue : Form
     {
+        //creating golbal constant
+        const int ARRAY_SIZE = 10;
+
         public frmMaxValue()
         {
             InitializeComponent();
@@ -27,19 +30,28 @@ namespace MaxValueAllisonC
         private int GetMaxValue(int[] tmpArrayOfNumbers)
         {
             //declare local variables
-            int maxValue;
+            int tmpmaxValue = 0;
             int currentValue;
+            int counter;
 
+            for (counter = 0;  counter < ARRAY_SIZE; counter++)
+            {
+                //getting the current number from array
+                currentValue = tmpArrayOfNumbers[counter];
+                if (tmpmaxValue < currentValue)
+                {
+                    //setting the maxVAlue to be the higher number
+                    tmpmaxValue = currentValue;
+                }
+            }
 
-
-            return maxValue;
+            return tmpmaxValue;
         }
 
         private void btnStart_Click(object sender, EventArgs e)
         {
             //declaring local variables and constants
             const int MAX_RANDOM_NUMBER = 500;
-            const int ARRAY_SIZE = 10;
             int randomNumber;
             int counter;
             int maxValue;
@@ -69,6 +81,9 @@ namespace MaxValueAllisonC
 
             //calling the function to find max value
             maxValue = GetMaxValue(arrayOfNumbers);
+
+            //showing the maxValue
+            this.lblMax.Text = "The max value is " + maxValue;
 
         }
     }
